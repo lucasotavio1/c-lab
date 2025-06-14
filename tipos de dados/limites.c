@@ -3,6 +3,7 @@
 #include <float.h>
 #include <locale.h>
 
+
 int main(void) {
 
     setlocale(LC_NUMERIC, "");
